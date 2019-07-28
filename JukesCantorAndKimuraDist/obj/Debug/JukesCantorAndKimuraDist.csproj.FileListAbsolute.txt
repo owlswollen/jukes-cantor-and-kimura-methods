@@ -1,0 +1,10 @@
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\bin\Debug\JukesCantorAndKimuraDist.exe.config
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\bin\Debug\JukesCantorAndKimuraDist.exe
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\bin\Debug\JukesCantorAndKimuraDist.pdb
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.Form1.resources
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.Properties.Resources.resources
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.exe
+C:\Users\Gokce\Desktop\JukesCantorAndKimuraDist\JukesCantorAndKimuraDist\obj\Debug\JukesCantorAndKimuraDist.pdb
